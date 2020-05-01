@@ -9,3 +9,5 @@ Every web service vendor has their own web service concepts, feature set, UI, et
 - OWS is to AWS as Windows is to MacOS (software/hardware coupling)
 - OWS is to Linux as AWS is to Windows (free vs proprietary)
 
+## Vendors
+\<This is where all the implementing vendors will go in the future\>
